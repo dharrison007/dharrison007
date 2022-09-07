@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @dharrison007
-- 👀 I’m interested in artificial intelligence, space engineering, engineering concepts, fundemental physics 
-- 🌱 I’m currently learning C#.NET and WPF
-- 💞️ I’m looking to collaborate on something constructive for humanity
+- 👋 Hi, I’m @dharrison007, I am professionally skilled in EA (TOGAF), AGILE, DevOps, PRINCE2, ITIL, Lean Six Sigma  
+- 👀 I’m interested in: enterprise architecture, artificial intelligence, space engineering, engineering, fundemental physics 
+- 🌱 I’m currently (re-)learning C#, .NET, WPF
+- 💞️ I’m looking to collaborate on something constructive for humanity, I have skills in: C++, C, Obective C 
 - 📫 How to reach me dan@h2reality.com
 
-<!---
-dharrison007/dharrison007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
